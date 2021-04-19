@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "dependabot",
+        "gomod",
+        "intellij",
+        "lockfiles",
+        "markdownlint",
+        "purplebooth"
+    ],
+    "cSpell.enableFiletypes": [
+        "juliamarkdown",
+        "ruby"
+    ]
+}
